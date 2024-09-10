@@ -6,7 +6,7 @@ https://kops.sigs.k8s.io/#what-is-kops
 kops will not only help you create, destroy, upgrade and maintain production-grade, highly available, Kubernetes cluster, but it will also provision the necessary cloud infrastructure.
 AWS (Amazon Web Services) and GCE (Google Cloud Platform) are currently officially supported, with DigitalOcean, Hetzner and OpenStack in beta support, and Azure in alpha.
 
-# How to Install kOps - high leve steps
+# How to Install kOps - high level steps
 - Create E2 instance
 - Create S3 bucket
 - Create key pair - (EC2 > Key pairs > Create key pair)
